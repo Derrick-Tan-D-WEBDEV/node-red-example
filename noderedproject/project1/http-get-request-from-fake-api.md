@@ -5,7 +5,16 @@ This project is to guide the beginners how to get request using node and print i
 In addition, the project will keep on running and repeating the execution 5 second once. Good luck!🤗
 <img src="https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/img/p1%231.PNG">
 
-[INJECTOR #1] => [HTTP REQUEST] => [MSG PAYLOAD]
+[INJECTOR NODE#1] => [HTTP REQUEST NODE#2] => [MSG PAYLOAD NODE#3]
+
+#### NODE#1 - CONFIG
+<img src="https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/img/p1%233.PNG">
+
+#### NODE#2 - CONFIG
+<img src="https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/img/p1%234.PNG">
+
+#### NODE#3 - CONFIG
+<img src="https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/img/p1%235.PNG">
 
 ### Results
 It will returns a json results!<br>
