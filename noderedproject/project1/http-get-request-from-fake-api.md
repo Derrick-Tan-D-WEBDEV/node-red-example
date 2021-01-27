@@ -11,3 +11,6 @@ In addition, the project will keep on running and repeating the execution 5 seco
 It will returns a json results!<br>
 Something like this:<br>
 <img src="https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/img/p1%232.PNG">
+
+### Download Example
+[Download Sample!📓](https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/project1/flows.json)
