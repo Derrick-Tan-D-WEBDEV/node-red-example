@@ -8,6 +8,6 @@ In addition, the project will keep on running and repeating the execution 5 seco
 [INJECTOR #1] => [HTTP REQUEST] => [MSG PAYLOAD]
 
 ### Results
-It will returns a json results!
-Something like this:
+It will returns a json results!<br>
+Something like this:<br>
 <img src="https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/img/p1%232.PNG">
