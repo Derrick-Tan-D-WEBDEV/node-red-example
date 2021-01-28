@@ -25,4 +25,4 @@ Something like this:<br>
 <img src="https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/img/p2%232.PNG">
 
 ### Download Example
-[Download Sample!📓](https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/project1/flows.json)
+[Download Sample!📓](https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/project2/flows.json)
