@@ -1,8 +1,8 @@
-## Project 1: HTTP Get Request from Fake API
+## Project 2: HTTP Request Web Scraping
 ### Overview
-Fake API: https://jsonplaceholder.typicode.com/guide/
-This project is to guide the beginners how to get request using node and print it in the debug console.
-In addition, the project will keep on running and repeating the execution 5 second once. Good luck!🤗
+Fake Ecommerce: https://webscraper.io/test-sites/e-commerce/allinone
+This project is to guide the beginners how to do simple web scraping using node and print it in the debug console.
+In addition, the project will parse the html accoding to the selectors and repeating the execution 5 second once. Good luck!🤗
 <img src="https://github.com/Derrick-Tan-D-WEBDEV/node-red-example/blob/main/noderedproject/img/p2%231.PNG">
 
 [INJECTOR NODE#1] => [HTTP REQUEST NODE#2] => [PARSE HTML NODE#3] => [MSG PAYLOAD NODE#4]
